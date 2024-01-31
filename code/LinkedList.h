@@ -18,6 +18,7 @@ class LinkedList {
 public:
   // Constructor. Initialize class variables and pointers here if need.
   // Initially set top pointer to null.
+  
   LinkedList();
 
   // Deconstructor. Can probably leave this empty because we use bare pointers
